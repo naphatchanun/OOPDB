@@ -9,4 +9,4 @@ const uri = ('mongodb+srv://onosannnnt:admin123@cluster0.zx9nnzi.mongodb.net/oh-
 app.use(express.json())
 app.use(cors())
 
-app.get('/')
+app.get('/signin')
